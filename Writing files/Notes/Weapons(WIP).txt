@@ -1,0 +1,44 @@
+Armas "Reais"
+
+CF05 "Chang Feng" - Submachine gun
+QBZ 95 - Assault rifle
+QBB 97 - Machine gun (conversion from QBZ 95)
+NORINCO LG6 - Grenade launcher
+Type 80 - Handgun, Machine/automatic pistol
+Desert Eagle - Magnum Pistol
+AMP Automag - Magnum Pistol
+Tec 9 - Machine pistol
+Luger Parabellum - Pistol
+Atchisson AA-12 - Assault Shotgun
+Pancor Jackhammer - Assault Shotgun
+Ithaca 37 - Shotgun
+Beretta M9 - Modular Pistol
+M249 SAW - Machine gun
+H&K G11 - Advanced combat rifle
+
+Armas Ficticias
+
+Needler - pistol
+PPK12  - Gauss pistol
+Water gun - Special pistol
+M72 - Gauss rifle
+MEC - Gauss minigun
+P94 - Plasma caster
+Wattz 1000 - Laser pistol
+Wattz 1000 magneto - Laser pistol
+Wattz 2000 - Laser rifle
+Glock 86 - Plasma pistol
+P95 - Adavanced Plasma rifle
+SIG Sauer 14mm - Heavy pistol
+
+
+
+
+
+
+
+
+
+
+
+
